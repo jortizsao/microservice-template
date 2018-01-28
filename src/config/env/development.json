@@ -1,0 +1,10 @@
+{
+  "LOGGER": {
+    "LEVEL": "debug"
+  },
+  "COMMERCE_TOOLS": {
+    "PROJECT_KEY": "",
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": ""
+  }
+}

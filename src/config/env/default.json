@@ -1,0 +1,7 @@
+{
+  "PORT": 3000,
+  "COMMERCE_TOOLS": {
+    "API_HOST": "https://api.commercetools.co",
+    "OAUTH_URL": "https://auth.commercetools.co"
+  }
+}

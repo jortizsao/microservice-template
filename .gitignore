@@ -1,0 +1,14 @@
+# package directories
+node_modules
+
+# Babel output
+dist
+
+# Istanbul output
+coverage
+
+# Environment
+deployment.env
+
+# Yarn
+yarn.lock
